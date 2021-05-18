@@ -25,7 +25,7 @@ Les commandes:
 cd code
 
 # preparer les conversations dans un fichier texte
-node parse_message
+node parse_message.js
 
 
 cd model_training
