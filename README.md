@@ -5,7 +5,7 @@ Pour cela, vous pouvez récupérer vos données Messenger sur Facebook puis entr
 Ensuite, vous pourrez générer vos conversations.
 
 Ce projet a été réalisé pour l'EC de Machine Learning encadré par [Clément Chatelain](https://pagesperso.litislab.fr/cchatelain/), enseignant chercheur en Machine Learning. 
-Il a été réalisé par Nathan Astegiano, Louis Dispa et Lucas Scellos. 
+Il a été réalisé par [Nathan Astegiano](https://github.com/nastegiano), [Louis Dispa](https://github.com/LouisDISPA) et [Lucas Scellos](https://github.com/LucasScellos).
 
 
 ## Sources
