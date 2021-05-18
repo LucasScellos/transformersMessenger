@@ -4,7 +4,7 @@ Le but de ce projet est de créer un générateur de texte parlant comme vous !
 Pour cela, vous pouvez récupérer vos données Messenger sur Facebook puis entrainé le modèle avec. 
 Ensuite, vous pourrez générer vos conversations.
 
-Ce projet a été réalisé pour l'EC de Machine Learning encadré par [Clément Chatelain](https://pagesperso.litislab.fr/cchatelain/) enseignant chercheur en Machine Learning. 
+Ce projet a été réalisé pour l'EC de Machine Learning encadré par [Clément Chatelain](https://pagesperso.litislab.fr/cchatelain/), enseignant chercheur en Machine Learning. 
 Il a été réalisé par Nathan Astegiano, Louis Dispa et Lucas Scellos. 
 
 
