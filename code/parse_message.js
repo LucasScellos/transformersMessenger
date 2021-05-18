@@ -32,4 +32,4 @@ let text = jsons[0].messages
 .map((message) => `<${message.sender_name}>${message.content}</${message.sender_name}>`)
 .join('\n');
 
-fs.writeFileSync("./test.txt", text);
+fs.writeFileSync("./model_training/conversation.txt", text);

@@ -29,7 +29,7 @@ small_eval_dataset = procces_dataset(dataset["test"])
 # config and start training
 
 training_args = TrainingArguments(
-    output_dir="itiaventurecoronavirus_model",
+    output_dir="conversation_model",
     evaluation_strategy="epoch",
     num_train_epochs=20,
     learning_rate=2e-5,
